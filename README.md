@@ -1,2 +1,1 @@
-# PrepCourse-Henry-2
-Prueba del prep course
+Prueba para crear y clonar un repositorio en GitHub
